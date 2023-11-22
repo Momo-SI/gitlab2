@@ -6,7 +6,7 @@ int main()
   {
 
 
-   cout<<"sifat nur"<<endl;
+   cout<<"monkey"<<endl;
    cout<<"2104010202282"<<endl;
     cout<<"sec: c";
   }
