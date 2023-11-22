@@ -8,4 +8,5 @@ int main()
 
    cout<<"momo"<<endl;
    cout<<"2104010202282"<<endl;
+    cout<<"sec: c";
   }
